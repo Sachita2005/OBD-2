@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3_ra5pkNO"
-#define BLYNK_TEMPLATE_NAME "strain"
-#define BLYNK_AUTH_TOKEN "_GCumzvc5d2yjaG0gyHWfvoptHnqR-vm"
+#define BLYNK_TEMPLATE_ID "TMPL3_ra5pkNOO"
+#define BLYNK_TEMPLATE_NAME "OBD"
+#define BLYNK_AUTH_TOKEN "_GCumzvc5d2yjaG0gyHWfvoptHnqR-vmMK"
 #include <Wire.h>
 #include <SPI.h>
 #include <mcp2515.h>
